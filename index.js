@@ -16,10 +16,10 @@ function yourAnimal(animal) {
 }
 
 function add2(n) {
-  return n + two
+  return two + two
   // Feel free to move things around!
   const two = 2
-  console.log('n')
+  
 }
 
 var funkyFunction = function() {
